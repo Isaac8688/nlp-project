@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Lumina Essay Grader",
+  "description": "An advanced automated essay grading system powered by Gemini 3 Pro. It evaluates writing using complex NLP metrics, provides rubric-based scoring, and offers actionable feedback to improve writing quality.",
+  "requestFramePermissions": []
+}
